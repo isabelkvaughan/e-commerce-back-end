@@ -3,6 +3,8 @@ const routes = require('./routes');
 // import sequelize connection
 const sequelize = require('./config/connection');
 const { Category, Product, ProductTag, Tag } = require('./models');
+const { seedAll } = require('./seeds/index');
+require('./seeds');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
