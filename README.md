@@ -27,7 +27,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Mockup
 The following video shows an example of the application in use:
 
-[![A video thumbnail shows starting the server in the command line, then testing the API routes via Insomnia.](https://drive.google.com/file/d/1J2dCY7TnNASONrNobXJ7hIxs_ByHLeHB/view?usp=sharing)
+[![A video thumbnail shows starting the server in the command line, then testing the API routes via Insomnia.](https://drive.google.com/file/d/1VTKEn5VUIkTYcDfVWkSPzxlD6rEBty9X/view?usp=sharing)
 
 ## Installation & Links
 1) Run `npm install` to install required dependencies
