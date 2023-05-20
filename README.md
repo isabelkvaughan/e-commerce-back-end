@@ -31,8 +31,11 @@ The following video shows an example of the application in use:
 
 ## Installation & Links
 1) Run `npm install` to install required dependencies
-2) Run `node server` to launch command line application
-3) 
+2) Update .env file with MySQL Username and Password
+3) Run `npm run seed` to seed database
+4) Run `npm start` to start server
+5) Use Insomnia or similar to test API POST, PUT and DELETE routes
+
 
 GitHub Repository: [github.com/isabelkvaughan/e-commerce-back-end](https://github.com/isabelkvaughan/e-commerce-back-end)
 
